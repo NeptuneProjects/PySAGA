@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 from pathlib import Path
-import sys
 from typing import Union
 
 import numpy as np
