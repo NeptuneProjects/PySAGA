@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+**/*.shd
+**/*.env
+**/*.prt
+**/*.swp
+**/*.flp
+**/*.mod
+.ipynb_checkpoints
+.vscode
+*.ipynb
+*.png
+*.in
+dev
+tests
